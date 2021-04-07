@@ -30,4 +30,4 @@ After logging in you can:
 
 -change password from the settings.
 
-![alt text](https://yuml.me/9e00c0a0.png)
+![alt text](https://imgur.com/a/EpPljvT)
