@@ -29,3 +29,5 @@ After logging in you can:
 -select a city and look in the recommendations section for activities to do or places to see;
 
 -change password from the settings.
+
+![alt text](https://i.imgur.com/weglYZd.jpg)
